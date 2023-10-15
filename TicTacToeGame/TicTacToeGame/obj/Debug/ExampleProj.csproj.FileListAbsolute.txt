@@ -1,0 +1,8 @@
+C:\Users\Florent\source\repos\ExampleProj\ExampleProj\bin\Debug\ExampleProj.exe.config
+C:\Users\Florent\source\repos\ExampleProj\ExampleProj\bin\Debug\ExampleProj.exe
+C:\Users\Florent\source\repos\ExampleProj\ExampleProj\bin\Debug\ExampleProj.pdb
+C:\Users\Florent\source\repos\ExampleProj\ExampleProj\obj\Debug\ExampleProj.csproj.AssemblyReference.cache
+C:\Users\Florent\source\repos\ExampleProj\ExampleProj\obj\Debug\ExampleProj.csproj.SuggestedBindingRedirects.cache
+C:\Users\Florent\source\repos\ExampleProj\ExampleProj\obj\Debug\ExampleProj.csproj.CoreCompileInputs.cache
+C:\Users\Florent\source\repos\ExampleProj\ExampleProj\obj\Debug\ExampleProj.exe
+C:\Users\Florent\source\repos\ExampleProj\ExampleProj\obj\Debug\ExampleProj.pdb
